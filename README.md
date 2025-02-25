@@ -34,4 +34,4 @@ Hub.xyz একটি ওপেন সোর্স প্ল্যাটফর্
 - এই রেপোজিটরিটি ফরক করলে, আপনি আরও অনেক মানুষের সাথে ডেভেলপার হিসেবে যোগাযোগ করতে পারবেন এবং আপনার ধারণাগুলি শেয়ার করতে পারবেন।
 - আপনি সমস্যা রিপোর্ট করতে এবং প্ল্যাটফর্মটি উন্নত করার জন্য মতামত প্রদান করতে পারেন।
 
-উৎস: [https://learn.microsoft.com/tr-tr/answers/questions/2182156/hub-xyz-yqlg](https://learn.microsoft.com/tr-tr/answers/questions/2182156/hub-xyz-yqlg)
+উৎস: [https://learn.microsoft.com/tr-tr/answers/questions/2182156/hub-xyz-yqlg]([https://learn.microsoft.com/tr-tr/answers/questions/2182156/hub-xyz-yqlg](https://learn.microsoft.com/tr-tr/answers/questions/2182155/hub-xyz-yqlg))
